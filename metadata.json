@@ -1,0 +1,7 @@
+{
+  "name": "COPACO - AI Agent for Commodity Paper Contracts",
+  "description": "A sophisticated AI-driven platform for researching, auditing, and monitoring the divergence between commodity paper contracts and physical supplies.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
